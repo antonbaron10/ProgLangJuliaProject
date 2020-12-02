@@ -28,6 +28,7 @@ Bella
 - download IDE that runs both python & julia, compare run-time & startup time (maybe) of same things
 - grad section of paper
 - after layout done, exp to pp and to design thing
+- medium article: how to use julia with google colab
 
 
 
