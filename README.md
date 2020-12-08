@@ -7,3 +7,5 @@ The cvs file is updated constantly and sometimes is corrupted ... Occasionally r
 
 
 ** If code is suddenly not working when it has worked in the past (& you're using an IDE), try ending the Julia session and starting a new one. It's also a good idea to keep one file for all of your package imports/installations in the same directory as any files you're running at the same time. Importing packages, "using" statements often conflict with eachother and can cause problems
+
+See & scroll through screenshots in atom folder to see use of GL and RDatasets packages (shows code & resulting plots)
